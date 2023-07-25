@@ -78,24 +78,6 @@
      "test": "tap"
   },
   "tap":{
-    "test-env": [
-      "LC_ALL=sk"
-    ],
-    "color": 1,
-    "files": "test/{lib,bin,index.js}",
-    "timeout": 600,
-    "nyc-arg": [
-      "--exclude",
-      "docs/**",
-      "--exclude",
-      "smoke-tests/**",
-      "--exclude",
-      "mock-registry/**",
-      "--exclude",
-      "workspaces/**",
-      "--exclude",
-      "tap-snapshots/**"
-    ],
     "test-ignore": "^(docs|smoke-tests|mock-registry|workspaces)/"
 },
   "author": "",
