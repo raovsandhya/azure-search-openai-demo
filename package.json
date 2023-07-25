@@ -1,0 +1,23 @@
+{
+  "name": "demopackage",
+  "version": "1.0.0",
+  "description": "[![Open in GitHub Codespaces](https://img.shields.io/static/v1?style=for-the-badge&label=GitHub+Codespaces&message=Open&color=brightgreen&logo=github)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=599293758&machine=standardLinux32gb&devcontainer_path=.devcontainer%2Fdevcontainer.json&location=WestUs2)\r [![Open in Remote - Containers](https://img.shields.io/static/v1?style=for-the-badge&label=Remote%20-%20Containers&message=Open&color=blue&logo=visualstudiocode)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/azure-samples/azure-search-openai-demo)",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "flask": "^2.2.5",
+    "tiktoken": "^0.4.0",
+    "azure-identity":"^1.13.0",
+    "langchain": "^0.0.187",
+    "openai":"^0.27.8",
+    "azure-search-documents":"^11.4.0b3",
+    "azure-storage-blob":"^12.14.1"
+  }
+}
