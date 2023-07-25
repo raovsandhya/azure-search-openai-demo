@@ -77,7 +77,7 @@
   "scripts": {
      "test": "tap"
   },
-  tap{
+  "tap":{
     "test-env": [
       "LC_ALL=sk"
     ],
