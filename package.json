@@ -73,7 +73,7 @@
     "zod": "^3.21.4",
     "zod-to-json-schema": "^3.21.4"
   },
-  "devDependencies": {},
+  "devDependencies": {"tap": "^16.3.4"},
   "scripts": {
      "test": "tap"
   },
