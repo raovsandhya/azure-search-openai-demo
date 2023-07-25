@@ -73,13 +73,10 @@
     "zod": "^3.21.4",
     "zod-to-json-schema": "^3.21.4"
   },
-  "devDependencies": {"tap": "^16.3.4"},
+  "devDependencies": {},
   "scripts": {
-     "test": "tap"
   },
-  "tap":{
-    "test-ignore": "^(docs|smoke-tests|mock-registry|workspaces)/"
-},
+ 
   "author": "",
   "license": "ISC"
 }
