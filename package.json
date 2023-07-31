@@ -75,7 +75,7 @@
   },
   "devDependencies": {},
   "scripts": {
-   "build": "/scripts/prepdocs.py"
+   "build":""
   },
 
   "author": "",
