@@ -115,7 +115,7 @@
       "tap-snapshots/**"
     ],
     "test-ignore": "^(docs|smoke-tests|mock-registry|workspaces)/"
-  }
+  },
   "author": "",
   "license": "ISC"
 }
