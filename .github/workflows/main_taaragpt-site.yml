@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'taaragpt-site'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2D82771E6100490B8E7A1A619CDA104B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7017744E1CC74FBB920C619ADE3ECE21 }}
           package: .
